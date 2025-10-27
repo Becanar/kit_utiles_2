@@ -6,6 +6,8 @@ Uso:
     python -m src.cli 1,2,3,4
 Salida:
     10.0
+
+ta hau aldatzeko
 """
 
 import sys
